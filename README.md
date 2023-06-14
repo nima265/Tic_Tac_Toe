@@ -37,3 +37,8 @@ This is a simple implementation of the Tic Tac Toe game in C++, featuring player
    ```shell
    g++ -o tic-tac-toe main.cpp
    
+### Usage
+
+1. run Tic-Tac-Toe.cpp
+2. choose the mode of game
+3. enjoy =)
